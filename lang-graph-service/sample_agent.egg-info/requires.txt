@@ -1,0 +1,12 @@
+langchain-openai
+langchain-anthropic
+langchain
+openai
+langchain-community
+copilotkit
+uvicorn
+python-dotenv
+langchain-core
+langgraph-cli
+fastapi<0.116.0,>=0.115.12
+langgraph<0.3.0,>=0.2.0
